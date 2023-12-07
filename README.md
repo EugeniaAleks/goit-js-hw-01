@@ -1,2 +1,3 @@
-# goit-markup-hw-01
-HTML page markup
+# goit-js-hw-01
+
+Variables and types. Function basics.
